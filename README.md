@@ -42,7 +42,7 @@ Once the app is running, you can input text and the app will classify its sentim
 live web app Link 📄
 ---------------
 
-*     https://nlp-task-sentiment-analysis-akash.streamlit.app/
+* https://nlp-task-sentiment-analysis-akash.streamlit.app/
 
 
 Contributing 🤝
