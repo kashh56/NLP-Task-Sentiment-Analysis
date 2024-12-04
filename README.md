@@ -17,6 +17,7 @@ Technologies Used 🛠️
 *   **WordCloud** - For generating word clouds based on sentiment data
 *   **seaborn & matplotlib** - For data visualization
 *   **Jupyter Notebook** - For Exploratory data analysis
+*   **TF-IDF** -For Vectorization of tokens.
   
 
 Installation 💻
