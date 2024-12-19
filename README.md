@@ -1,7 +1,7 @@
 Sentiment Analysis Web App and EDA  😃
 =============================
 
-Welcome to the Sentiment Analysis EDA and  Web App built with Streamlit! This app performs sentiment analysis on input text using Natural Language Processing (NLP) techniques and SpaCy's pre-trained models. 🚀
+Welcome to the Sentiment Analysis EDA and  Web App built with Streamlit! This app performs sentiment analysis on input text using Natural Language Processing (NLP) techniques . 🚀
 
 Project Overview 📊
 -------------------
